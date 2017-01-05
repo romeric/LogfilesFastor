@@ -1,0 +1,48 @@
+Tensor<float,4,4> x Tensor<float,4,4>
+0.0664925
+Tensor<float,2,16> x Tensor<float,2,16>
+0.231979
+Tensor<double,3,2> x Tensor<double,3,2>
+0.0207906
+Tensor<double,4,4> x Tensor<double,4,4>
+0.0667218
+Tensor<float,4,4,4> x Tensor<float,4,4,4>
+0.699763
+Tensor<float,2,3,16> x Tensor<float,2,3,16>
+1.564
+Tensor<double,4,3,2> x Tensor<double,4,3,2>
+0.168909
+Tensor<double,2,3,4> x Tensor<double,2,3,4>
+0.168764
+Tensor<float,2,3,4,4> x Tensor<float,2,3,4,4>
+0.492808
+Tensor<float,2,3,4,8> x Tensor<float,2,3,4,8>
+1.42897
+Tensor<double,5,4,3,2> x Tensor<double,5,4,3,2>
+0.572066
+Tensor<double,2,3,5,4> x Tensor<double,2,3,5,4>
+0.570691
+Tensor<float,2,2,2,2,4> x Tensor<float,2,2,2,2,4>
+0.310982
+Tensor<float,2,2,2,3,16> x Tensor<float,2,2,2,3,16>
+7.30713
+Tensor<double,2,2,2,2,2> x Tensor<double,2,2,2,2,2>
+0.0935056
+Tensor<double,2,2,2,2,8> x Tensor<double,2,2,2,2,8>
+0.826341
+Tensor<float,2,2,2,2,2,4> x Tensor<float,2,2,2,2,2,4>
+0.169898
+Tensor<float,2,2,2,2,2,8> x Tensor<float,2,2,2,2,2,8>
+0.546083
+Tensor<double,2,2,2,2,2,2> x Tensor<double,2,2,2,2,2,2>
+0.0497299
+Tensor<double,2,2,2,2,2,4> x Tensor<double,2,2,2,2,2,4>
+0.166827
+Tensor<float,2,2,2,2,2,2,2,4> x Tensor<float,2,2,2,2,2,2,2,4>
+0.311532
+Tensor<float,2,2,2,2,2,2,2,8> x Tensor<float,2,2,2,2,2,2,2,8>
+1.1416
+Tensor<double,2,2,2,2,2,2,2,2> x Tensor<double,2,2,2,2,2,2,2,2>
+0.0946568
+Tensor<double,2,2,2,2,2,2,2,4> x Tensor<double,2,2,2,2,2,2,2,4>
+0.382646

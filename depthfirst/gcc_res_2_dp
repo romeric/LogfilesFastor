@@ -1,0 +1,53 @@
+FLOP count with no opt 131072 FLOP cost with opt 69632 size of temporary 16 
+ 1.85353e-05 
+ FLOP count with no opt 524288 FLOP cost with opt 75776 size of temporary 16 
+ 2.11225e-05 
+ FLOP count with no opt 4194304 FLOP cost with opt 133120 size of temporary 16 
+ 3.32061e-05 
+ FLOP count with no opt 33554432 FLOP cost with opt 591872 size of temporary 16 
+ 0.000183921 
+ FLOP count with no opt 134217728 FLOP cost with opt 2164736 size of temporary 16 
+ 0.000701428 
+ FLOP count with no opt 1073741824 FLOP cost with opt 16844800 size of temporary 16 
+ 0.00544576 
+ FLOP count with no opt 524288 FLOP cost with opt 270336 size of temporary 32 
+ 6.80711e-05 
+ FLOP count with no opt 2097152 FLOP cost with opt 282624 size of temporary 32 
+ 7.22747e-05 
+ FLOP count with no opt 16777216 FLOP cost with opt 397312 size of temporary 32 
+ 0.0001041 
+ FLOP count with no opt 134217728 FLOP cost with opt 1314816 size of temporary 32 
+ 0.000444674 
+ FLOP count with no opt 1073741824 FLOP cost with opt 8654848 size of temporary 32 
+ 0.00310915 
+ FLOP count with no opt 16777216 FLOP cost with opt 8421376 size of temporary 128 
+ 0.00253263 
+ FLOP count with no opt 67108864 FLOP cost with opt 8470528 size of temporary 128 
+ 0.0025483 
+ FLOP count with no opt 536870912 FLOP cost with opt 8929280 size of temporary 128 
+ 0.00269643 
+ FLOP count with no opt 8388608 FLOP cost with opt 4325376 size of temporary 512 
+ 0.00108797 
+ FLOP count with no opt 67108864 FLOP cost with opt 4784128 size of temporary 512 
+ 0.00122392 
+ FLOP count with no opt 536870912 FLOP cost with opt 8454144 size of temporary 512 
+ 0.00262998 
+ FLOP count with no opt 20971520 FLOP cost with opt 13107200 size of temporary 10240 
+ 0.00398376 
+ FLOP count with no opt 83886080 FLOP cost with opt 17039360 size of temporary 10240 
+ 0.00589631 
+ FLOP count with no opt 671088640 FLOP cost with opt 53739520 size of temporary 10240 
+ 0.0217192 
+ FLOP count with no opt 41943040 FLOP cost with opt 26214400 size of temporary 20480 
+ 0.00871721 
+ FLOP count with no opt 167772160 FLOP cost with opt 34078720 size of temporary 20480 
+ 0.0123969 
+ FLOP count with no opt 1342177280 FLOP cost with opt 107479040 size of temporary 20480 
+ 0.0427008 
+ FLOP count with no opt 83886080 FLOP cost with opt 62914560 size of temporary 81920 
+ 0.0298354 
+ FLOP count with no opt 335544320 FLOP cost with opt 94371840 size of temporary 81920 
+ 0.045933 
+ FLOP count with no opt 1342177280 FLOP cost with opt 220200960 size of temporary 81920 
+ 0.105138 
+ 

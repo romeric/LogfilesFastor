@@ -1,0 +1,65 @@
+FLOP count with no opt 24576 FLOP cost with opt 16384 size of temporary 16 
+ 1.97586e-05 
+ FLOP count with no opt 98304 FLOP cost with opt 40960 size of temporary 16 
+ 3.1364e-05 
+ FLOP count with no opt 196608 FLOP cost with opt 73728 size of temporary 16 
+ 4.49753e-05 
+ FLOP count with no opt 1572864 FLOP cost with opt 532480 size of temporary 16 
+ 0.000251506 
+ FLOP count with no opt 12582912 FLOP cost with opt 589824 size of temporary 16 
+ 0.0003782 
+ FLOP count with no opt 113246208 FLOP cost with opt 1114112 size of temporary 16 
+ 0.00217858 
+ FLOP count with no opt 49152 FLOP cost with opt 32768 size of temporary 32 
+ 3.91229e-05 
+ FLOP count with no opt 196608 FLOP cost with opt 81920 size of temporary 32 
+ 6.21576e-05 
+ FLOP count with no opt 393216 FLOP cost with opt 147456 size of temporary 32 
+ 8.92162e-05 
+ FLOP count with no opt 3145728 FLOP cost with opt 1064960 size of temporary 32 
+ 0.000501415 
+ FLOP count with no opt 25165824 FLOP cost with opt 1179648 size of temporary 32 
+ 0.000755067 
+ FLOP count with no opt 226492416 FLOP cost with opt 2228224 size of temporary 32 
+ 0.00436643 
+ FLOP count with no opt 196608 FLOP cost with opt 131072 size of temporary 128 
+ 0.000175413 
+ FLOP count with no opt 786432 FLOP cost with opt 327680 size of temporary 128 
+ 0.000276426 
+ FLOP count with no opt 1572864 FLOP cost with opt 589824 size of temporary 128 
+ 0.000417356 
+ FLOP count with no opt 12582912 FLOP cost with opt 4259840 size of temporary 128 
+ 0.00238905 
+ FLOP count with no opt 100663296 FLOP cost with opt 4718592 size of temporary 128 
+ 0.00326133 
+ FLOP count with no opt 905969664 FLOP cost with opt 8912896 size of temporary 128 
+ 0.0180073 
+ FLOP count with no opt 393216 FLOP cost with opt 262144 size of temporary 256 
+ 0.000340033 
+ FLOP count with no opt 1572864 FLOP cost with opt 655360 size of temporary 256 
+ 0.000553529 
+ FLOP count with no opt 3145728 FLOP cost with opt 1179648 size of temporary 256 
+ 0.000834022 
+ FLOP count with no opt 25165824 FLOP cost with opt 8519680 size of temporary 256 
+ 0.004764 
+ FLOP count with no opt 201326592 FLOP cost with opt 9437184 size of temporary 256 
+ 0.00647208 
+ FLOP count with no opt 1811939328 FLOP cost with opt 17825792 size of temporary 256 
+ 0.0353984 
+ FLOP count with no opt 15728640 FLOP cost with opt 13107200 size of temporary 10 
+ 0.0153003 
+ FLOP count with no opt 62914560 FLOP cost with opt 26214400 size of temporary 10 
+ 0.0315745 
+ FLOP count with no opt 503316480 FLOP cost with opt 173015040 size of temporary 10 
+ 0.130082 
+ FLOP count with no opt 31457280 FLOP cost with opt 26214400 size of temporary 20 
+ 0.0310291 
+ FLOP count with no opt 125829120 FLOP cost with opt 52428800 size of temporary 20 
+ 0.0624426 
+ FLOP count with no opt 1006632960 FLOP cost with opt 346030080 size of temporary 20 
+ 0.239478 
+ FLOP count with no opt 125829120 FLOP cost with opt 104857600 size of temporary 80 
+ 0.114651 
+ FLOP count with no opt 503316480 FLOP cost with opt 209715200 size of temporary 80 
+ 0.213777 
+ 
